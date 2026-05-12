@@ -1,30 +1,64 @@
-📦 Biblioteca LED
+📦 LED Library
+A simple and efficient library for controlling LEDs in embedded projects (such as Arduino, ESP32, Raspberry Pi, and similar platforms).
 
-Uma biblioteca simples e eficiente para controle de LEDs em projetos embarcados (como Arduino, ESP32, Raspberry Pi e similares).
+🚀 Features
 
-🚀 Funcionalidades
-Controle de LEDs digitais (ligar/desligar)
-Suporte a PWM (controle de brilho)
-Efeitos básicos (piscar, fade, sequência)
-Fácil integração com projetos existentes
-Código leve e otimizado 
-🛠 Requisitos
-C++ (Arduino framework ou similar)
-Placa compatível com GPIO/PWM
 
-📌 Exemplos incluídos
-Blink – Piscar LED básico
-Fade – Efeito de transição suave
-Sequence – Controle de múltiplos LEDs
+Digital LED control (ON/OFF)
 
-🤝 Contribuição
 
-Contribuições são bem-vindas!
+PWM support (brightness control)
 
-Faça um fork
-Crie uma branch (feature/nova-feature)
-Commit suas alterações
-Abra um Pull Request
-📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Basic effects (blink, fade, sequence)
+
+
+Easy integration with existing projects
+
+
+Lightweight and optimized code
+
+
+
+🛠 Requirements
+
+
+C++ (Arduino framework or similar)
+
+
+GPIO/PWM compatible board
+
+
+
+📌 Included Examples
+
+
+Blink – Basic LED blinking
+
+
+Fade – Smooth transition effect
+
+
+Sequence – Multiple LED control
+
+
+
+🤝 Contribution
+Contributions are welcome!
+
+
+Fork the repository
+
+
+Create a branch (feature/new-feature)
+
+
+Commit your changes
+
+
+Open a Pull Request
+
+
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
