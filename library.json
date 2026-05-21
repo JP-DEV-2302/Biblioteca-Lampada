@@ -1,13 +1,13 @@
 {
-  "nome"  : "LED",
+  "nome"  : "Lampada",
 "version" : "1.0.0",
-"description" : "Biblioteca para controle nao bloqueante de LED com suporte a ligar, desligar, alternar, temporizacao e piscadas",
-"keywords" : ["led", "arduino", "esp32", "non-blocking"],
+"description" : "Biblioteca para controle nao bloqueante de Lampada com suporte a ligar, desligar, alternar",
+"keywords" : ["lampada", "arduino", "esp32", "non-blocking"],
 "authors" : [ 
 
 {
 
-    "nome" : "João Pedro M. de Oliveira",
+    "nome" : "Grupo mesaProjeto01",
     "e-mail" : ""
 }
 ],
@@ -15,7 +15,7 @@
 
 "frameworks" : "arduino",
 "platforms" : "*",
-"hearders" : "LED"
+"hearders" : "Lampada"
 
 
 
