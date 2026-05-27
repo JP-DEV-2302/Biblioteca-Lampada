@@ -66,11 +66,6 @@ void Lampada::update()
         funcaoApagarNoTempo();
     }
 
-    if (estadoPiscar)
-    {
-        funcaoPiscar();
-    }
-
     digitalWrite(pino, estado);
 }
 
