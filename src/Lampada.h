@@ -24,9 +24,9 @@ private:
   bool apagarNoTempo;
   uint32_t apagarNoMomento;
   uint32_t tempoEspera;
-  bool estadoPiscar;
+ 
   uint32_t tempoAnteriorPisca;
-  uint16_t repeticoes;
+  
 
 
   /**
